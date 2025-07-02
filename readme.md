@@ -1,6 +1,7 @@
 # Projeto Flask com API do Google Gemini
 
 Este é um projeto de exemplo que demonstra como criar uma aplicação web simples com Flask que se integra à API do Google Gemini.
+![image](https://github.com/user-attachments/assets/f1863149-f727-418c-863d-5bcf58ff5607)
 
 ## Requisitos
 
@@ -14,8 +15,8 @@ Siga estas instruções para configurar e rodar o projeto localmente.
 ### 1. Clone o Repositório
 
 ```bash
-git clone <URL_DO_SEU_REPOSITORIO>
-cd <NOME_DA_PASTA_DO_PROJETO>
+git clone https://github.com/aeciobrito/ai-agents-study.git
+cd <NOME_DA_PASTA_DO_PROJETO_QUE_NAO_SEI_COMO_FICA_SE_VIRA>
 ```
 
 ### 2. Crie e Ative o Ambiente Virtual
