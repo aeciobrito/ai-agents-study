@@ -1,0 +1,11 @@
+# Ambiente Virtual
+.venv/
+
+# Arquivos do VS Code
+.vscode/
+
+# Arquivos de Cache do Python
+__pycache__/
+
+# Arquivo de segredos - NUNCA ENVIAR!
+.env
